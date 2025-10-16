@@ -1,8 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Rumah","order":1,"parentId":0,"scrollX":619,"scrollY":348.5},
-{"id":2,"expanded":false,"name":"Dapur","order":2,"parentId":0,"scrollX":619,"scrollY":348.5},
-{"id":3,"expanded":false,"name":"Perkantoran","order":3,"parentId":0,"scrollX":619,"scrollY":632.5,"quick":false},
-{"id":4,"expanded":false,"name":"Kantor","order":4,"parentId":0,"scrollX":618,"scrollY":578.3333333333334,"quick":false},
-{"id":5,"expanded":false,"name":"Office 1F","order":5,"parentId":0,"scrollX":619,"scrollY":628.5,"quick":false}
+{"id":1,"expanded":true,"name":"MAP001 - Rumah (Prolog)","order":1,"parentId":0,"scrollX":742.8,"scrollY":418.2},
+{"id":2,"expanded":false,"name":"MAP002 - Dapur","order":2,"parentId":1,"scrollX":742.8,"scrollY":418.2},
+{"id":3,"expanded":false,"name":"MAP003 - Ruang TV Tengah","order":4,"parentId":1,"scrollX":742.8,"scrollY":418.2,"quick":false},
+{"id":4,"expanded":false,"name":"MAP004 - Kantor","order":3,"parentId":1,"scrollX":742.8,"scrollY":661.8,"quick":false}
 ]
