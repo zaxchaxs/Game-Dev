@@ -5695,8 +5695,12 @@ Input.keyMapper = {
     39: "right", // right arrow
     40: "down", // down arrow
     45: "escape", // insert
+    65: "left", // A
+    68: "right", // D
+    83: "down", // S
+    87: "up", // W
     81: "pageup", // Q
-    87: "pagedown", // W
+    69: "pagedown", // E
     88: "escape", // X
     90: "ok", // Z
     96: "escape", // numpad 0
@@ -5706,6 +5710,7 @@ Input.keyMapper = {
     104: "up", // numpad 8
     120: "debug" // F9
 };
+
 
 /**
  * A hash table to convert from a gamepad button to a mapped key name.
